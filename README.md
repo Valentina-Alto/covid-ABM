@@ -1,4 +1,4 @@
-# covid-ABM
+# Agent-based model for COVID-19 spreading
 Agent-Based Model to simulate covid-19 spread depending on individual risk perception.
 
 # Abstract and main purpose
